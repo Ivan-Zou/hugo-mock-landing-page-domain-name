@@ -17,4 +17,4 @@ User-Stories:
 - As an outdoors enthusiaist, I want VoiceTech to have a builtin flashlight
 - As a saftey expert, I want VoiceTech to be safe for consumers to use (does not explode out of nowhere)
 - As an environmentalist, I want VoiceTech to be made from sustainable materials
-- As an environmentalist, I want VoiceTech to have solar power capabiltiies
+- As an environmentalist, I want VoiceTech to be abled to be powered by solar power
