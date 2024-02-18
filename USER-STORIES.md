@@ -13,5 +13,8 @@ User-Stories:
 - As a fashionable person, I want VoiceTech to be stylish
 - As an entrepreneur, I want to use VoiceTech to record video memos of my ideas with ease and on the go
 - As a masseuse, I want VoiceTech to be able to message one's vocal cords
-- As a runner, I want an accurate recording of my pulse whilst on my run
+- As a runner, I want VoiceTech to record an accurate recording of my pulse whilst I'm on my run
 - As an outdoors enthusiaist, I want VoiceTech to have a builtin flashlight
+- As a saftey expert, I want VoiceTech to be safe for consumers to use (does not explode out of nowhere)
+- As an environmentalist, I want VoiceTech to be made from sustainable materials
+- As an environmentalist, I want VoiceTech to have solar power capabiltiies
