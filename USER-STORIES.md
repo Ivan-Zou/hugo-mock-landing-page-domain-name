@@ -1,4 +1,4 @@
-VoiceTech: A technological collar that enhances one's voice
+VoiceTech Collar: A technological collar that enhances one's voice
 
 User-Stories:
 - As an international traveler, I want to use VoiceTech to translate my words into words in the local language in real time.
