@@ -1,6 +1,6 @@
-+++
-aliases = ["posts", "blog"]
-title = "Posts"
-authors = ["Filipe Carneiro"]
-tags = ["index"]
++++ 
+aliases = ["posts", "blog"] 
+title = "Posts" 
+authors = ["Filipe Carneiro"] 
+tags = ["index"] 
 +++
