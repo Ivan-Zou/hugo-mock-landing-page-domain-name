@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /404.html
+Sitemap: https://Ivan-Zou.github.io/hugo-bootstrap-theme/sitemap.xml
