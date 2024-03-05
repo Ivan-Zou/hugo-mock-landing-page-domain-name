@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Categories on Voice Tech Collar</title>
-    <link>https://Ivan-Zou.github.io/hugo-mock-landing-page/categories/</link>
-    <description>Recent content in Categories on Voice Tech Collar</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>Ivan Zou</copyright>
-    <atom:link href="https://Ivan-Zou.github.io/hugo-mock-landing-page/categories/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on Voice Tech Collar</title><link>https://Ivan-Zou.github.io/hugo-mock-landing-page-autodeployed/categories/</link><description>Recent content in Categories on Voice Tech Collar</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Ivan Zou</copyright><lastBuildDate>Tue, 05 Mar 2024 01:17:34 +0000</lastBuildDate><atom:link href="https://Ivan-Zou.github.io/hugo-mock-landing-page-autodeployed/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>The Bootstrap Blog</title><link>https://Ivan-Zou.github.io/hugo-mock-landing-page-autodeployed/categories/the-bootstrap-blog/</link><pubDate>Fri, 13 May 2022 13:00:44 +0100</pubDate><guid>https://Ivan-Zou.github.io/hugo-mock-landing-page-autodeployed/categories/the-bootstrap-blog/</guid><description/></item></channel></rss>
