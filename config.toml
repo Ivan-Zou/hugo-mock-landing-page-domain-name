@@ -1,4 +1,4 @@
-baseURL = 'http://mydomain.autos/'
+baseURL = 'https://mydomain.autos/'
 title = "Voice Tech Collar"
 author = "Ivan Zou"
 copyright = "Ivan Zou"
